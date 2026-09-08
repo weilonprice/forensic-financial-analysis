@@ -1,0 +1,88 @@
+Audit report questions:
+
+1. Who is the auditor? Is the auditor a reputable, well-known firm with a track record of reliability and independence? In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.                                                                                                                         
+
+
+2. What is the opinion? Did the auditor issue an unqualified (clean) opinion, or is it qualified, adverse, or a disclaimer? In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.                                         
+
+
+3. Are there any material weaknesses? Does the report mention material weaknesses in internal controls over financial reporting, meaning Internal Control over Financial Reporting (ICFR)? In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.                                                         
+
+
+4. Are there going concerns? Does the auditor express doubt about the company’s ability to continue as a going concern? In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.         
+                                                                        
+5. What is the scope of the audit? Does the report specify that the audit followed established standards (e.g., PCAOB, which stands for Public Company Accounting Oversight Board) or other standards? In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.                                                                                 
+6. Are there any critical audit matters (CAMs)? What significant areas of judgment or complexity does the report highlight? How were these addressed? In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.                         
+                                                                                
+7. Were there any restatements? Does the auditor reference restatements of prior financial statements? If so, why? In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.                 
+
+
+8. Does the report mention independence? Does the auditor affirm their independence from the company? In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.         
+
+
+9. What year does the audit cover? Is the audit report consistent with the fiscal year of the financial statements? In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.                                         
+
+
+10. Are there any emphasis-of-matter or other paragraphs? Does the report call attention to specific issues (e.g., legal disputes, accounting changes, or uncertainties)? In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.                                                 
+
+
+11. Is the auditor's signature and date present? Does the report include the signature of the audit firm and the date of issuance, ensuring authenticity and timeliness? In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.                                                                         
+
+
+12. Is the auditor’s tenure disclosed? How long has the auditor been engaged by the company, and could that affect their independence? In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+
+13. In less than 5 sentences, what are the differences between the current and previous Audit Reports. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 									
+									
+14. Audit report answers summary: In In 2 sentences or less (and make sure the character count is less than 350 and include everything in one paragraph), I want you to summarize all of the previous answers on Audit report and write it in the 3rd person.	
+
+MD&A Questions:
+
+1. What are the main drivers of financial performance? For example, what products or services comprises larger percents of revenue? What factors does management identify as influencing revenue, expenses, or profitability? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 		
+
+2. How has the business performed year-over-year? Does management provide a clear analysis of changes in financial performance compared to prior periods? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 								
+								
+3. What trends or uncertainties are discussed? Are there any trends, uncertainties, or risks that could impact future financial performance? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 		
+
+4. What is the company’s liquidity position? Does management explain how the company generates cash and whether it has enough to cover short-term obligations? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 									
+										
+5. What does management say about capital resources? Are there any planned capital expenditures, financing activities, or resource constraints discussed? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 	
+								
+6. How does management explain changes in revenue and expenses? Are the reasons for increases or decreases in key financial metrics adequately explained? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 
+							
+7. What are the risks to future growth? Does the MD&A address external or internal risks that could hinder the company’s growth plans? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 	
+
+8. Are there any non-GAAP financial measures? Does the MD&A include non-GAAP metrics, and are these reconciled with GAAP measures? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 		
+
+9. What operational challenges are highlighted? Does management discuss any significant operational issues or inefficiencies? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 			
+
+10. Management Discussion Are there insights into how market conditions, competition, or regulations are affecting the business? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 									
+11. What assumptions underlie forward-looking statements? Are the assumptions behind forecasts or projections reasonable and transparent? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 										
+12. What key investments or strategies are mentioned? Does the MD&A discuss recent acquisitions, divestitures, or new initiatives, and their expected impact? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 			
+						
+13. What is the company’s debt situation? Does management discuss the level of debt, maturity schedules, or the ability to meet obligations? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 										
+14. Are there any significant accounting judgments? Does the MD&A mention critical accounting estimates or policies that significantly affect financial results? In 2 sentences or less for the answer please. In 2 sentences or less for the answer please. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else. 
+									
+15. In less than 5 sentences, what are the differences between the current and previous MD&As.
+
+16. In In 2 sentences or less (and make sure the character count is less than 485), I want you to summarize all of the MD&A answers and write it in the 3rd person.									
+										
+																			
+									
+																
+										
+																		
+										
+																		
+										
+										
+										
+																		
+										
+												
+																		
+										
+																		
+										
+																
+									
+									

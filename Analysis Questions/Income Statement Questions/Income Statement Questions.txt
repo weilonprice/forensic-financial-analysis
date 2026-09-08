@@ -1,0 +1,58 @@
+﻿Task 1: DSO Data Entry
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+                               | Fiscal Year | Fiscal Year | Fiscal Year | Most Recent Fiscal Year |
+-------------------------------------------------------------------------------------------------------------------------------------------------
+                               |      -3     |      -2     |      -1     | [                     ] | <-- Enter most recent fiscal year from
+                               |             |             |             |                         |     annual report (10-K) accessed in Step 1
+                               |             |             |             |                         |
+Revenue                        | [         ] | [         ] | [         ] | [                     ] | <-- Enter Annual Revenue from the Income
+  Year Over Year % Change      |             |     N/A     |     N/A     |           N/A           |     Statement
+                               |             |             |             |                         |
+Accounts Receivable            |             | [         ] | [         ] | [                     ] | <-- Enter Accounts Receivable from the
+  Year Over Year % Change      |             |     N/A     |     N/A     |           N/A           |     Balance Sheet
+                               |             |             |             |                         |
+DSO (Days Sales Outstanding)   |             |     N/A     |     N/A     |           N/A           |
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Task 2: DSO Analysis:
+
+The table below shows healthy DSO ranges depending on the sector. In the white column below, select Yes beside the sector the company you are analyzing is based in:
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sector Google is based in: | S&P 500 Sector         | DSO (Low End) | DSO (High End) | Notes                                                                 |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+| [ No ]                     | Information Technology | 30            | 50             | Shorter DSO due to software licensing and efficient B2B invoicing.    |
+| [ No ]                     | Consumer Discretionary | 35            | 55             | Retailers with high cash turnover vs. auto manufacturers with longer  |
+|                            |                        |               |                | cycles.                                                               |
+| [ No ]                     | Consumer Staples       | 25            | 45             | Fast payment from large retailers and grocers.                        |
+| [ No ]                     | Health Care            | 50            | 70             | Claims processing and insurance billing delays extend DSO.            |
+| [ No ]                     | Financials             | 30            | 60             | Banks (shorter DSO) vs. insurance and asset managers (longer DSO).    |
+| [ No ]                     | Industrials            | 45            | 65             | B2B manufacturing contracts often extend payment timelines.           |
+| [ No ]                     | Materials              | 40            | 60             | Commodity cycles and international trade affect payment speed.        |
+| [ No ]                     | Energy                 | 50            | 70             | Long-term project billing and high-value contracts increase DSO.      |
+| [ No ]                     | Utilities              | 30            | 50             | Regulated billing cycles create consistent but slightly delayed       |
+|                            |                        |               |                | collections.                                                          |
+| [ No ]                     | Communication Services | 40            | 60             | Advertising-based models may lengthen DSO vs. subscriptions.          |
+| [ No ]                     | Real Estate            | 60            | 90             | Lease agreements and delayed tenant payments raise DSO.               |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                            ]
+
+Select Your Rating --> (0 to 10)
+
+
+1. If revenue and or expense recognition has changed during the most recent fiscal year. If it has changed, I want you to tell me in no more than 2 sentences what has changed. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+2. If revenue disclosure has deteriorated. If it has changed, I want you to tell me in no more than 2 sentences what has changed. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+3. If expense disclosure has deteriorated. If it has changed, I want you to tell me in no more than 2 sentences what has changed. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+4. If organic revenue growth is deteriorated. Also mention if material acquisitions have led to an increase in non-organic revenue growth. I want you to tell me in no more than 2 sentences. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+5. What percent of revenue comes from new products and new markets? I want you to tell me in no more than 2 sentences what has changed. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+6. If there are material changes or concerns about sales allowances and returns. I want you to tell me in no more than 2 sentences what has changed. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+7. Tell me the change in Operating Profit Margins and the change in Gross Profit Margin and why both metrics changed. Also tell me if the company changed revenue recognition policies. I want you to tell me in no more than 2 sentences what has changed. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+8. If the company restated earnings and why and why. I want you to tell me in no more than 2 sentences what has changed. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+9. If the company incurred a large non-recurring item like a one time restructuring charge. I want you to tell me in no more than 2 sentences what has changed. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+10. If the company changed depreciation policies and why. I want you to tell me in no more than 2 sentences what has changed. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+11. Tell me 3 things. 1: Did the company change from GAAP to Non-GAAP, 2: Did the Earnings Quality Ratio change (= Cash Flow from Operations / Net Income) and 3:  Did the Accruals Ratio change ( = (Net Income - Cash Flow from Operations) / Total Assets) . I want you to tell me in no more than 2 sentences what has changed. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+12. What percent of revenue came from different segments (meaning products or services) and what the percent of revenue are and the change year over year. I want you to tell me in no more than 2 sentences what has changed. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+13. What percent of revenue came from different geographics and what the percent of revenue are and the change year over year. I want you to tell me in no more than 2 sentences what has changed. Based on that response should I be worried? If so, explain why in only 1 sentence that is written in the third person (i.e., don't mention You or my name in response). Then score out of 10 the level of concern. 1 is very concerned. 10 is not concerned, then just give me a number and nothing else.
+14. What percent of revenue came from different verticals (i.e., Healthcare, Financial Services and Industrials verticals) and what the percent of revenue are and the change year over year. I want you to tell me in no more than 2 sentences what has changed.
+15. For all previous answers for the Income Statement. In 6 sentences or less (and make sure the character count is less than 1000), I want you to summarize all previous income statement answers and write it in the 3rd person.

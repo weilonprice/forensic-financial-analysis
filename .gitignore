@@ -1,0 +1,47 @@
+# Environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.python-version
+
+# Secrets — the app reads ANTHROPIC_API_KEY from the environment and never
+# from a file. Nothing here should ever hold a key, but ignore the usual
+# suspects so an accidental one cannot be committed.
+.env
+.env.*
+*.key
+credentials.json
+
+# Filings. These are the user's own downloads from SEC EDGAR: large, public
+# domain, and specific to whichever company is being analysed. The folders are
+# kept (see the .gitkeep in each) so a fresh clone has somewhere to drop them.
+Latest 10k/*
+Previous Year 10k/*
+Past 10k/*
+!Latest 10k/.gitkeep
+!Previous Year 10k/.gitkeep
+!Past 10k/.gitkeep
+
+# Generated reports. Every run writes a JSON record, a Markdown report and a
+# PDF naming a real public company and characterising its filing. Those are
+# outputs, not source, and publishing generated assessments of a named issuer
+# is a separate decision from publishing the tool that made them.
+output/
+
+# Third-party question workbook. `HEV_All_Questions_Cleaned.txt` is an export
+# of a commercial investment-research product ("Investment Research Dashboard"),
+# not original work in this repository — it carries that product's branded
+# frameworks and its own spreadsheet furniture. Redistributing it publicly is
+# very likely a copyright problem regardless of the licence on this code, so it
+# stays local. `forensic/research.py` parses the format and is published; the
+# content is not. Remove this line only if you own or are licensed to
+# redistribute that material.
+100 Steps Questions/
+
+# Local tool configuration
+.claude/settings.local.json
+
+# macOS
+.DS_Store
+._*
