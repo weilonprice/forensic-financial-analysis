@@ -129,6 +129,8 @@ scripts/
   inspect_filings.py    inspect a parsed filing
 ```
 
+**Example Outout:**
+
 [alphabet-analysis-20260813-223159.pdf](https://github.com/user-attachments/files/32162088/alphabet-analysis-20260813-223159.pdf)
 
 
